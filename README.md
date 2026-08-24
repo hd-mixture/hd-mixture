@@ -117,9 +117,9 @@ Focus: GitHub Profile • Markdown
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hd-mixture&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="170" alt="GitHub Stats">
+<img src="https://github-stats-extended.vercel.app/api?username=hd-mixture&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="170" alt="GitHub Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hd-mixture&layout=compact&hide_border=true&theme=github_dark" height="170" alt="Top Languages">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hd-mixture&layout=compact&hide_border=true&theme=github_dark" height="170" alt="Top Languages">
 
 <br>
 
