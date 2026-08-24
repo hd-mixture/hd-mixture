@@ -4,30 +4,9 @@
 
 Creative Developer • Web & Mobile • Building Things That Feel Good to Use
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://hd-mixture.github.io/Portfolio/">
-        <img src="./assets/portfolio.svg" alt="Portfolio">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/hd-mixture">
-        <img src="./assets/github.svg" alt="GitHub">
-      </a>
-    </td>
-    <td>
-      <a href="https://instagram.com/hd_mixture">
-        <img src="./assets/instagram.svg" alt="Instagram">
-      </a>
-    </td>
-    <td>
-      <a href="https://twitter.com/hd_mixture">
-        <img src="./assets/twitter.svg?v=3" alt="Twitter">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+<a href="https://hd-mixture.github.io/Portfolio/"><img src="./assets/portfolio.svg" alt="Portfolio" width="150"></a><a href="https://github.com/hd-mixture"><img src="./assets/github.svg" alt="GitHub" width="135"></a><a href="https://instagram.com/hd_mixture"><img src="./assets/instagram.svg" alt="Instagram" width="165"></a><a href="https://twitter.com/hd_mixture"><img src="./assets/twitter.svg?v=3" alt="Twitter" width="125"></a>
+</p>
 
 🚀 About Me
 
