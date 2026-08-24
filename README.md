@@ -8,16 +8,19 @@ Creative Developer • Web & Mobile • Building Things That Feel Good to Use
 <div align="center">
 
 <a href="https://hd-mixture.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-181717?style=for-the-badge" alt="Portfolio">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-181717?style=for-the-badge&logoColor=white" alt="Portfolio">
 </a>
+
 <a href="https://github.com/hd-mixture">
-  <img src="https://img.shields.io/badge/🐙%20GitHub-181717?style=for-the-badge" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
+
 <a href="https://instagram.com/hd_mixture">
-  <img src="https://img.shields.io/badge/📷%20Instagram-E4405F?style=for-the-badge" alt="Instagram">
+  <img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
+
 <a href="https://x.com/hd_mixture">
-  <img src="https://img.shields.io/badge/𝕏%20X-000000?style=for-the-badge" alt="X">
+  <img src="https://img.shields.io/badge/X-181717?style=for-the-badge&logo=x&logoColor=white" alt="X">
 </a>
 
 </div>
