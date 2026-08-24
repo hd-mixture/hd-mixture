@@ -1,1 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="72" viewBox="0 0 260 72" role="img" aria-labelledby="title desc">
+<title>Portfolio</title>
+<desc>Open Darshan's portfolio</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#24292f"/>
+    <stop offset="1" stop-color="#161b22"/>
+  </linearGradient>
+</defs>
+<rect x="1" y="1" width="258" height="70" rx="20" fill="url(#bg)" stroke="#30363d" stroke-width="2"/>
+<rect x="1" y="1" width="258" height="70" rx="20" fill="none" stroke="#ffffff" stroke-opacity=".06"/>
 
+<g transform="translate(34 36)" stroke="#58a6ff" stroke-width="2.8" fill="none">
+  <circle r="17"/>
+  <ellipse rx="8" ry="17"/>
+  <path d="M-17 0h34M-14-9h28M-14 9h28"/>
+</g>
+<text x="72" y="43" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="2.2">PORTFOLIO</text>
+
+<rect x="115" y="58" width="30" height="4" rx="2" fill="#58a6ff"/>
+</svg>
