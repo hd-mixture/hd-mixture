@@ -4,7 +4,6 @@
 
 Creative Developer • Web & Mobile • Building Things That Feel Good to Use
 
-<p>
 <div align="center">
 
 <a href="https://hd-mixture.github.io/Portfolio/">
