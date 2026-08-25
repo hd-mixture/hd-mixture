@@ -6,43 +6,45 @@ Creative Developer • Web & Mobile • Building Things That Feel Good to Use
 
 <p align="center">
 
-<a href="https://hd-mixture.github.io/Portfolio">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/portfolio-light.svg">
-    <img src="./assets/portfolio-light.svg" alt="Portfolio" width="150">
-  </picture>
+<a href="https://hd-mixture.github.io/Portfolio/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/portfolio-light.svg">
+  <img src="./assets/portfolio-light.svg" alt="Portfolio" width="150">
+</picture>
 </a>
+
 &nbsp;&nbsp;
 
 <a href="https://github.com/hd-mixture">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/github-light.svg">
-    <img src="./assets/github-light.svg" alt="GitHub" width="135">
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-light.svg">
+  <img src="./assets/github-light.svg" alt="GitHub" width="135">
+</picture>
 </a>
+
 &nbsp;&nbsp;
 
 <a href="https://instagram.com/hd_mixture">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/instagram.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/instagram-light.svg">
-    <img src="./assets/instagram-light.svg" alt="Instagram" width="165">
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/instagram.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/instagram-light.svg">
+  <img src="./assets/instagram-light.svg" alt="Instagram" width="165">
+</picture>
 </a>
+
 &nbsp;&nbsp;
 
 <a href="https://twitter.com/hd_mixture">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/x.svg?v=3">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/x-light.svg">
-    <img src="./assets/twitter-light.svg" alt="Twitter" width="125">
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/x.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/x-light.svg">
+  <img src="./assets/twitter-light.svg" alt="Twitter" width="125">
+</picture>
 </a>
 
 </p>
-
 🚀 About Me
 
 I'm a Creative Developer who enjoys turning ideas into clean, functional and visually engaging digital experiences.
