@@ -16,14 +16,25 @@
        width="900">
 </p>
 
-<!-- Featured Projects -->
-<p align="center">
-  <img
-    src="./assets/featured-projects.svg"
-    alt="Featured Projects — Darshan Prajapati"
-    width="900"
-  >
-</p>
+<!-- Featured Projects — GitHub clickable version -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="50%" align="center" valign="top"><a href="https://cyberaegxs.hdmixture.site"><img src="./assets/projects/project-01.svg" width="420" alt="CyberAegXs"></a></td>
+<td width="50%" align="center" valign="top"><a href="https://github.com/hd-mixture/Nearby-Places.git"><img src="./assets/projects/project-02.svg" width="420" alt="Nearby Places"></a></td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top"><a href="https://hd-mixture.github.io/Figma-File-JSON-Downloader"><img src="./assets/projects/project-03.svg" width="420" alt="Figma File JSON Downloader"></a></td>
+<td width="50%" align="center" valign="top"><img src="./assets/projects/project-04.svg" width="420" alt="DevTextHub"></td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top"><a href="https://cardify.hdmixture.site"><img src="./assets/projects/project-05.svg" width="420" alt="Cardify"></a></td>
+<td width="50%" align="center" valign="top"><a href="https://hub.darshanenterprises.site"><img src="./assets/projects/project-06.svg" width="420" alt="DE Invoice & Quotation Hub"></a></td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top"><a href="https://hd-mixture.github.io/Campus-Cuisine-2"><img src="./assets/projects/project-07.svg" width="420" alt="Campus-Cuisine-2"></a></td>
+<td width="50%" align="center" valign="top"><a href="https://www.hdmixture.site"><img src="./assets/projects/project-08.svg" width="420" alt="hdmixture"></a></td>
+</tr>
+</table>
 
 📊 GitHub
 
