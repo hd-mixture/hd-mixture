@@ -4,6 +4,12 @@
        width="560">
 </div>
 
+<div align="right">
+  <img src="./assets/hero-right.svg"
+       alt="Darshan Prajapati — Creative Developer"
+       width="520">
+</div>
+
 🚀 About Me
 
 I'm a Creative Developer who enjoys turning ideas into clean, functional and visually engaging digital experiences.
