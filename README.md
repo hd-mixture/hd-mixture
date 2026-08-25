@@ -94,11 +94,7 @@
 </p>
 
 <p align="center">
-  <img
-    src="./assets/lets-connect-adaptive.svg"
-    alt="Let's Connect"
-    width="900"
-  >
+  <img src="./assets/github-section-header-adaptive.svg" alt="GitHub" width="900">
 </p>
 
 
