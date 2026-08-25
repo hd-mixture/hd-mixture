@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="980" height="520" viewBox="0 0 980 520"
+     width="980" height="430" viewBox="0 0 980 430"
      role="img" aria-labelledby="title desc">
   <title id="title">Darshan Prajapati — Creative Developer</title>
   <desc id="desc">Animated GitHub profile hero with introduction on the left and portrait on the right.</desc>
 
-  <svg x="0" y="92" width="590" height="334" viewBox="0 0 760 430"
+  <svg x="0" y="48" width="590" height="334" viewBox="0 0 760 430"
        preserveAspectRatio="xMinYMid meet">
     
 <title>Darshan Prajapati — Developer and Designer</title>
@@ -133,7 +133,7 @@
 
   </svg>
 
-  <svg x="585" y="40" width="395" height="357" viewBox="0 0 620 560"
+  <svg x="585" y="12" width="395" height="357" viewBox="0 0 620 560"
        preserveAspectRatio="xMidYMid meet">
     
 <title>Darshan Prajapati — Creative Developer</title>
