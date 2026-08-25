@@ -1,12 +1,12 @@
-<p align="center">
+<div align="center">
   <img src="./assets/hero-left.svg"
        alt="Darshan Prajapati — Developer and Designer"
-       width="520">
-  &nbsp;&nbsp;&nbsp;
+       width="500">
+
   <img src="./assets/hero-right.svg"
        alt="Darshan Prajapati — Creative Developer"
-       width="400">
-</p>
+       width="350">
+</div>
 
 🚀 About Me
 
