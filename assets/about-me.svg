@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="430" viewBox="0 0 920 430" role="img" aria-labelledby="title desc">
+<title id="title">About Me — Darshan Prajapati</title>
+<desc id="desc">Creative Developer building clean, functional and visually engaging digital experiences.</desc>
+
+<defs>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#6942c1"/>
+    <stop offset="100%" stop-color="#2f81f7"/>
+  </linearGradient>
+  <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#f8f9fb"/>
+    <stop offset="100%" stop-color="#ffffff"/>
+  </linearGradient>
+  <style>
+    .title{font:800 28px Arial,Helvetica,sans-serif;fill:#171b21}
+    .intro{font:500 18px Arial,Helvetica,sans-serif;fill:#59636e}
+    .label{font:700 17px Arial,Helvetica,sans-serif;fill:#20252c}
+    .body{font:400 15px Arial,Helvetica,sans-serif;fill:#68727d}
+    .card{fill:url(#card);stroke:#e1e5ea;stroke-width:1.5}
+    .icon{font:700 23px Arial,Helvetica,sans-serif}
+    .num{font:800 13px Arial,Helvetica,sans-serif;fill:#6942c1}
+    .line{fill:url(#accent)}
+    @media (prefers-color-scheme:dark){
+      .title{fill:#f0f6fc}
+      .intro{fill:#aeb7c2}
+      .label{fill:#e6edf3}
+      .body{fill:#8b949e}
+      .card{fill:#161b22;stroke:#30363d}
+      .num{fill:#58a6ff}
+    }
+  </style>
+</defs>
+
+<rect width="920" height="430" rx="22" fill="none"/>
+
+<!-- Header -->
+<text x="32" y="48" class="title">🚀 About Me</text>
+<rect x="32" y="66" width="52" height="4" rx="2" class="line"/>
+
+<text x="32" y="105" class="intro">I'm a Creative Developer who enjoys turning ideas into clean,</text>
+<text x="32" y="132" class="intro">functional and visually engaging digital experiences.</text>
+
+<!-- Cards -->
+<rect x="32" y="165" width="270" height="102" rx="16" class="card"/>
+<text x="55" y="201" class="icon" fill="#2f81f7">⌘</text>
+<text x="91" y="199" class="label">Web &amp; Mobile</text>
+<text x="91" y="224" class="body">Building practical web and</text>
+<text x="91" y="246" class="body">mobile applications.</text>
+<text x="55" y="252" class="num">01</text>
+
+<rect x="325" y="165" width="270" height="102" rx="16" class="card"/>
+<text x="348" y="201" class="icon" fill="#e45b9d">✦</text>
+<text x="384" y="199" class="label">Creative UI</text>
+<text x="384" y="224" class="body">Interested in UI, visual design</text>
+<text x="384" y="246" class="body">and creative development.</text>
+<text x="348" y="252" class="num">02</text>
+
+<rect x="618" y="165" width="270" height="102" rx="16" class="card"/>
+<text x="641" y="201" class="icon" fill="#6942c1">⌁</text>
+<text x="677" y="199" class="label">Problem Solving</text>
+<text x="677" y="224" class="body">Enjoy solving problems by</text>
+<text x="677" y="246" class="body">building practical projects.</text>
+<text x="641" y="252" class="num">03</text>
+
+<rect x="32" y="286" width="417" height="102" rx="16" class="card"/>
+<text x="55" y="322" class="icon" fill="#43a047">↗</text>
+<text x="91" y="320" class="label">Always Exploring</text>
+<text x="91" y="345" class="body">Always learning and experimenting</text>
+<text x="91" y="367" class="body">with new technologies.</text>
+<text x="55" y="373" class="num">04</text>
+
+<rect x="471" y="286" width="417" height="102" rx="16" class="card"/>
+<text x="494" y="322" class="icon" fill="#ff5722">⚡</text>
+<text x="530" y="320" class="label">My Approach</text>
+<text x="530" y="345" class="body">I like making things that are simple,</text>
+<text x="530" y="367" class="body">useful and fun to use.</text>
+<text x="494" y="373" class="num">05</text>
+
+</svg>
