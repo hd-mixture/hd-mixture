@@ -107,6 +107,8 @@
 
 <br><br>
 
-⭐ <b>If you find something useful here, consider giving it a star!</b>
+<p align="center">
+  ⭐ <b>If you find something useful here, consider giving it a star!</b>
+</p>
 
 </div>
