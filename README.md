@@ -22,13 +22,13 @@
 </p>
 
 <p align="center">
-  <a href="https://cyberaegxs.hdmixture.site"><img src="./assets/project-01.svg" alt="CyberAegXs" width="420"></a>
-  <a href="https://github.com/hd-mixture/Nearby-Places.git"><img src="./assets/project-02.svg" alt="Nearby Places" width="420"></a>
+  <a href="https://cyberaegxs.hdmixture.site"><img src="./assets/project-01.svg" alt="CyberAegXs" width="400"></a>
+  <a href="https://github.com/hd-mixture/Nearby-Places.git"><img src="./assets/project-02.svg" alt="Nearby Places" width="400"></a>
 </p>
 
 <p align="center">
-  <a href="https://hd-mixture.github.io/Figma-File-JSON-Downloader"><img src="./assets/project-03.svg" alt="Figma File JSON Downloader" width="420"></a>
-  <img src="./assets/project-04.svg" alt="DevTextHub" width="420">
+  <a href="https://hd-mixture.github.io/Figma-File-JSON-Downloader"><img src="./assets/project-03.svg" alt="Figma File JSON Downloader" width="400"></a>
+  <img src="./assets/project-04.svg" alt="DevTextHub" width="400">
 </p>
 
 <p align="center">
