@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="560" viewBox="0 0 620 560" role="img" aria-labelledby="title desc">
+<title>Darshan Prajapati — Creative Developer</title>
+<desc>Right-side GitHub profile hero with Darshan's portrait, soft gradient glow and subtle developer design accents.</desc>
+
+<defs>
+  <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#6942c1"/>
+    <stop offset="55%" stop-color="#2f81f7"/>
+    <stop offset="100%" stop-color="#ff5722"/>
+  </linearGradient>
+
+  <linearGradient id="softGlow" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#6942c1" stop-opacity=".18"/>
+    <stop offset="50%" stop-color="#2f81f7" stop-opacity=".12"/>
+    <stop offset="100%" stop-color="#ff5722" stop-opacity=".08"/>
+  </linearGradient>
+
+  <filter id="blur">
+    <feGaussianBlur stdDeviation="24"/>
+  </filter>
+
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+    <feDropShadow dx="0" dy="10" stdDeviation="14" flood-opacity=".16"/>
+  </filter>
+
+  <clipPath id="portraitClip">
+    <path d="M319 48
+             C411 48 489 122 505 222
+             C520 319 491 425 445 499
+             C411 554 357 562 302 545
+             C242 527 205 474 190 405
+             C170 310 184 195 216 118
+             C237 68 269 48 319 48Z"/>
+  </clipPath>
+</defs>
+
+<style>
+  .line{fill:none;stroke:#2f81f7;stroke-width:2;stroke-linecap:round}
+  .soft{fill:none;stroke:#6942c1;stroke-width:1.5;opacity:.3}
+  .code{font:700 20px 'Courier New',monospace;fill:#6942c1}
+  .design{font:700 20px Arial,sans-serif;fill:#e45b9d}
+  .dot{fill:#2f81f7}
+  @media (prefers-color-scheme:dark){
+    .line{stroke:#58a6ff}
+    .soft{stroke:#a78bfa}
+    .code{fill:#a78bfa}
+    .design{fill:#ff79b0}
+    .dot{fill:#58a6ff}
+  }
+</style>
+
+<!-- Transparent canvas: no solid background -->
+<rect width="620" height="560" fill="none"/>
+
+<!-- Soft ambient glow -->
+<ellipse cx="350" cy="300" rx="205" ry="205" fill="url(#softGlow)" filter="url(#blur)"/>
+
+<!-- Organic developer-style backdrop -->
+<path d="M315 65
+         C420 30 524 104 538 218
+         C552 333 490 463 397 522
+         C317 573 213 520 180 414
+         C145 303 188 132 315 65Z"
+      fill="none" stroke="url(#ring)" stroke-width="3" opacity=".34"/>
+
+<path d="M326 86
+         C415 62 493 124 501 218
+         C509 307 462 414 398 465
+         C342 510 257 478 224 395
+         C189 305 216 127 326 86Z"
+      fill="none" stroke="url(#ring)" stroke-width="1.5" opacity=".22"/>
+
+<!-- Portrait -->
+<g filter="url(#shadow)">
+  <image href="./darshan-cutout.png"
+         x="142" y="20" width="390" height="765"
+         preserveAspectRatio="xMidYMax meet"
+         clip-path="url(#portraitClip)"/>
+</g>
+
+<!-- Floating code/design accents -->
+<g transform="translate(122 104)">
+  <rect x="0" y="0" width="78" height="54" rx="17"
+        fill="none" stroke="#2f81f7" stroke-width="1.5" opacity=".42"/>
+  <text x="16" y="35" class="code">&lt;/&gt;</text>
+</g>
+
+<g transform="translate(470 126)">
+  <rect x="0" y="0" width="68" height="54" rx="17"
+        fill="none" stroke="#e45b9d" stroke-width="1.5" opacity=".38"/>
+  <text x="18" y="35" class="design">✦</text>
+</g>
+
+<g transform="translate(105 390)">
+  <circle cx="8" cy="8" r="7" class="dot" opacity=".65"/>
+  <circle cx="30" cy="8" r="4" class="dot" opacity=".35"/>
+  <circle cx="46" cy="8" r="2.5" class="dot" opacity=".22"/>
+</g>
+
+<!-- Minimal connecting lines -->
+<path d="M165 132 C205 151 211 178 224 201" class="line" opacity=".18"/>
+<path d="M503 154 C475 173 467 195 457 219" class="soft"/>
+<path d="M478 431 C505 413 521 393 531 367" class="line" opacity=".15"/>
+
+<!-- Small accent ring -->
+<circle cx="531" cy="368" r="7" fill="none" stroke="#ff5722" stroke-width="2" opacity=".55"/>
+<circle cx="531" cy="368" r="2.5" fill="#ff5722" opacity=".7"/>
+
+</svg>
