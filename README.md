@@ -5,6 +5,8 @@
 Creative Developer • Web & Mobile • Building Things That Feel Good to Use
 
 <p align="center">
+
+<span>
 <a href="https://hd-mixture.github.io/Portfolio/">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio.svg">
@@ -12,9 +14,11 @@ Creative Developer • Web & Mobile • Building Things That Feel Good to Use
 <img src="./assets/portfolio-light.svg" alt="Portfolio" width="150">
 </picture>
 </a>
+</span>
 
 &nbsp;&nbsp;
 
+<span>
 <a href="https://github.com/hd-mixture">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/github.svg">
@@ -22,9 +26,11 @@ Creative Developer • Web & Mobile • Building Things That Feel Good to Use
 <img src="./assets/github-light.svg" alt="GitHub" width="135">
 </picture>
 </a>
+</span>
 
 &nbsp;&nbsp;
 
+<span>
 <a href="https://instagram.com/hd_mixture">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/instagram.svg">
@@ -32,9 +38,11 @@ Creative Developer • Web & Mobile • Building Things That Feel Good to Use
 <img src="./assets/instagram-light.svg" alt="Instagram" width="165">
 </picture>
 </a>
+</span>
 
 &nbsp;&nbsp;
 
+<span>
 <a href="https://twitter.com/hd_mixture">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/x.svg?v=3">
@@ -42,6 +50,8 @@ Creative Developer • Web & Mobile • Building Things That Feel Good to Use
 <img src="./assets/twitter-light.svg" alt="Twitter" width="125">
 </picture>
 </a>
+</span>
+
 </p>
 
 🚀 About Me
