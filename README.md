@@ -4,19 +4,11 @@
        width="900">
 </p>
 
-🚀 About Me
-
-I'm a Creative Developer who enjoys turning ideas into clean, functional and visually engaging digital experiences.
-
-💻 Building web and mobile applications
-
-🎨 Interested in UI, visual design and creative development
-
-🧩 Enjoy solving problems by building practical projects
-
-🌱 Always learning and experimenting with new technologies
-
-⚡ I like making things that are simple, useful and fun to use
+<p align="center">
+  <img src="./assets/about-me.svg"
+       alt="About Me — Darshan Prajapati"
+       width="900">
+</p>
 
 🛠️ Tech Stack
 
