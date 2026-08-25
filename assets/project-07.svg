@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="250" viewBox="30 797 420 250">
+<style>
+    .title{font:800 28px Arial,Helvetica,sans-serif;fill:#171b21}
+    .project{font:800 18px Arial,Helvetica,sans-serif;fill:#20252c}
+    .desc{font:400 14px Arial,Helvetica,sans-serif;fill:#69737e}
+    .focus{font:700 13px Arial,Helvetica,sans-serif;fill:#6942c1}
+    .num{font:800 12px Arial,Helvetica,sans-serif;fill:#8a939d}
+    .card{fill:#fff;stroke:#e1e5ea;stroke-width:1.5}
+    .tag{fill:#f5f7fa;stroke:#e2e6eb;stroke-width:1}
+    .tagtext{font:700 11px Arial,Helvetica,sans-serif;fill:#59636e}
+.preview{fill:#fff;stroke:#2f81f7;stroke-width:1.4}
+.previewtext{font:700 11px Arial,Helvetica,sans-serif;fill:#2f81f7}
+    .accent{fill:url(#accent)}
+    @media (prefers-color-scheme:dark){
+      .title,.project{fill:#f0f6fc}
+      .desc{fill:#8b949e}
+      .focus{fill:#58a6ff}
+      .num{fill:#6e7681}
+      .card{fill:#161b22;stroke:#30363d}
+      .tag{fill:#1c2128;stroke:#30363d}
+      .tagtext{fill:#8b949e}
+.preview{fill:#161b22;stroke:#58a6ff}
+.previewtext{fill:#58a6ff}
+    }
+  </style>
+<!-- 07 -->
+<rect x="30" y="797" width="420" height="250" rx="18" class="card"/>
+<text x="55" y="831" class="num">07</text>
+<text x="90" y="831" class="project">📚 Campus-Cuisine-2</text>
+<text x="55" y="867" class="desc">An updated version exploring the same idea with</text>
+<text x="55" y="889" class="desc">a different frontend implementation.</text>
+<rect x="55" y="922" width="70" height="30" rx="15" class="tag"/>
+<text x="70" y="941" class="tagtext">HTML</text>
+<rect x="133" y="922" width="70" height="30" rx="15" class="tag"/>
+<text x="148" y="941" class="tagtext">CSS</text>
+<rect x="326" y="1005" width="112" height="30" rx="15" class="preview"/>
+  <text x="342" y="1024" class="previewtext">↗ View Live</text>
+
+
+</svg>
