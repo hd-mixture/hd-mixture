@@ -1,13 +1,14 @@
-<div align="left">
-  <img src="./assets/hero-left.svg"
-       alt="Darshan Prajapati — Developer and Designer"
-       width="560">
-</div>
-
-<div align="right">
-  <img src="./assets/hero-right.svg"
-       alt="Darshan Prajapati — Creative Developer"
-       width="520">
+<div align="center">
+<table>
+<tr>
+<td align="left" width="55%">
+<img src="./assets/hero-left.svg" width="100%" alt="Hero Left" />
+</td>
+<td align="right" width="45%">
+<img src="./assets/hero-right.svg" width="100%" alt="Hero Right" />
+</td>
+</tr>
+</table>
 </div>
 
 🚀 About Me
