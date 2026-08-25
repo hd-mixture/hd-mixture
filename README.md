@@ -93,11 +93,7 @@
   >
 </p>
 
-<p align="center">
-  <img src="./assets/lets-connect-adaptive" alt="GitHub" width="900">
-</p>
-
-
+<!--Social Icons-->
 <p align="center">
 <a href="https://hd-mixture.github.io/Portfolio/"><img src="./assets/portfolio-adaptive.svg" alt="Portfolio" width="150"></a>&nbsp;&nbsp;
 <a href="https://github.com/hd-mixture"><img src="./assets/github-adaptive.svg" alt="GitHub" width="135"></a>&nbsp;&nbsp;
