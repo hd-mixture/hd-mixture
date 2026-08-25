@@ -2,7 +2,7 @@
   <img src="./assets/hero-left.svg"
        alt="Darshan Prajapati — Developer and Designer"
        width="520">
-
+  &nbsp;&nbsp;&nbsp;
   <img src="./assets/hero-right.svg"
        alt="Darshan Prajapati — Creative Developer"
        width="400">
