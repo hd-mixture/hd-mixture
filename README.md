@@ -1,8 +1,8 @@
 <div align="center">
 
-👋 Hi, I'm Darshan Prajapati
+<img src="./assets/hero-banner.png" alt="Darshan Prajapati - Creative Developer" width="100%">
 
-Creative Developer • Web & Mobile • Building Things That Feel Good to Use
+</div>
 
 🚀 About Me
 
