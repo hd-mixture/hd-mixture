@@ -5,53 +5,10 @@
 Creative Developer • Web & Mobile • Building Things That Feel Good to Use
 
 <p align="center">
-
-<span>
-<a href="https://hd-mixture.github.io/Portfolio/">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio.svg">
-<source media="(prefers-color-scheme: light)" srcset="./assets/portfolio-light.svg">
-<img src="./assets/portfolio-light.svg" alt="Portfolio" width="150">
-</picture>
-</a>
-</span>
-
-&nbsp;&nbsp;
-
-<span>
-<a href="https://github.com/hd-mixture">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="./assets/github.svg">
-<source media="(prefers-color-scheme: light)" srcset="./assets/github-light.svg">
-<img src="./assets/github-light.svg" alt="GitHub" width="135">
-</picture>
-</a>
-</span>
-
-&nbsp;&nbsp;
-
-<span>
-<a href="https://instagram.com/hd_mixture">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="./assets/instagram.svg">
-<source media="(prefers-color-scheme: light)" srcset="./assets/instagram-light.svg">
-<img src="./assets/instagram-light.svg" alt="Instagram" width="165">
-</picture>
-</a>
-</span>
-
-&nbsp;&nbsp;
-
-<span>
-<a href="https://twitter.com/hd_mixture">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="./assets/x.svg?v=3">
-<source media="(prefers-color-scheme: light)" srcset="./assets/x-light.svg">
-<img src="./assets/twitter-light.svg" alt="Twitter" width="125">
-</picture>
-</a>
-</span>
-
+<a href="https://hd-mixture.github.io/Portfolio/"><img src="./assets/portfolio.svg#gh-dark-mode-only" alt="Portfolio" width="150"></a><a href="https://hd-mixture.github.io/Portfolio/"><img src="./assets/portfolio-light.svg#gh-light-mode-only" alt="Portfolio" width="150"></a>&nbsp;&nbsp;
+<a href="https://github.com/hd-mixture"><img src="./assets/github.svg#gh-dark-mode-only" alt="GitHub" width="135"></a><a href="https://github.com/hd-mixture"><img src="./assets/github-light.svg#gh-light-mode-only" alt="GitHub" width="135"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/hd_mixture"><img src="./assets/instagram.svg#gh-dark-mode-only" alt="Instagram" width="165"></a><a href="https://instagram.com/hd_mixture"><img src="./assets/instagram-light.svg#gh-light-mode-only" alt="Instagram" width="165"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/hd_mixture"><img src="./assets/x.svg?v=3#gh-dark-mode-only" alt="Twitter" width="125"></a><a href="https://twitter.com/hd_mixture"><img src="./assets/x-light.svg#gh-light-mode-only" alt="Twitter" width="125"></a>
 </p>
 
 🚀 About Me
