@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="800" viewBox="0 0 920 800" role="img" aria-labelledby="title desc">
+<title id="title">Tech Stack &amp; Tools — Darshan Prajapati</title>
+<desc id="desc">Frontend, backend, tools, design and graphics technologies used by Darshan Prajapati.</desc>
+
+<defs>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#6942c1"/>
+    <stop offset="100%" stop-color="#2f81f7"/>
+  </linearGradient>
+  <style>
+    .title{font:800 28px Arial,Helvetica,sans-serif;fill:#171b21}
+    .section{font:700 18px Arial,Helvetica,sans-serif;fill:#252a31}
+    .name{font:700 14px Arial,Helvetica,sans-serif;fill:#252a31}
+    .muted{font:400 13px Arial,Helvetica,sans-serif;fill:#727b86}
+    .card{fill:#fff;stroke:#e1e5ea;stroke-width:1.5}
+    .pill{fill:#f7f8fa;stroke:#e2e6eb;stroke-width:1}
+    .icon{font:700 16px Arial,Helvetica,sans-serif}
+    .num{font:800 12px Arial,Helvetica,sans-serif;fill:#6942c1}
+    @media (prefers-color-scheme:dark){
+      .title{fill:#f0f6fc}
+      .section,.name{fill:#e6edf3}
+      .muted{fill:#8b949e}
+      .card{fill:#161b22;stroke:#30363d}
+      .pill{fill:#1c2128;stroke:#30363d}
+      .num{fill:#58a6ff}
+    }
+  </style>
+</defs>
+
+<rect width="920" height="800" fill="none"/>
+
+<text x="30" y="43" class="title">🛠️ Tech Stack &amp; Tools</text>
+<rect x="30" y="60" width="58" height="4" rx="2" fill="url(#accent)"/>
+
+<!-- Frontend -->
+<rect x="30" y="92" width="420" height="340" rx="18" class="card"/>
+<text x="55" y="128" class="section">🌐 Frontend &amp; Styling</text>
+<text x="55" y="151" class="muted">Building modern, responsive interfaces</text>
+
+<g transform="translate(55 176)">
+  <rect width="178" height="48" rx="13" class="pill"/>
+  <text x="18" y="30" class="icon" fill="#e34f26">▣</text><text x="48" y="30" class="name">HTML5</text>
+</g>
+<g transform="translate(245 176)">
+  <rect width="178" height="48" rx="13" class="pill"/>
+  <text x="18" y="30" class="icon" fill="#1572b6">✦</text><text x="48" y="30" class="name">CSS3</text>
+</g>
+<g transform="translate(55 235)">
+  <rect width="178" height="48" rx="13" class="pill"/>
+  <text x="18" y="30" class="icon" fill="#f0db4f">JS</text><text x="55" y="30" class="name">JavaScript</text>
+</g>
+<g transform="translate(245 235)">
+  <rect width="178" height="48" rx="13" class="pill"/>
+  <text x="18" y="30" class="icon" fill="#3178c6">TS</text><text x="55" y="30" class="name">TypeScript</text>
+</g>
+<g transform="translate(55 295)">
+  <rect width="178" height="48" rx="13" class="pill"/>
+  <text x="18" y="30" class="icon" fill="#61dafb">⚛</text><text x="55" y="30" class="name">React</text>
+</g>
+<g transform="translate(245 295)">
+  <rect width="178" height="48" rx="13" class="pill"/>
+  <text x="18" y="30" class="icon" fill="#111">N</text><text x="55" y="30" class="name">Next.js</text>
+</g>
+<g transform="translate(55 355)">
+  <rect width="368" height="48" rx="13" class="pill"/>
+  <text x="18" y="30" class="icon" fill="#38bdf8">≈</text><text x="55" y="30" class="name">Tailwind CSS</text>
+</g>
+
+<!-- Backend -->
+<rect x="470" y="92" width="420" height="340" rx="18" class="card"/>
+<text x="495" y="128" class="section">⚙️ Backend &amp; Database</text>
+<text x="495" y="151" class="muted">APIs, services and data</text>
+
+<g transform="translate(495 176)">
+  <rect width="178" height="48" rx="13" class="pill"/>
+  <text x="18" y="30" class="icon" fill="#3c873a">JS</text><text x="55" y="30" class="name">Node.js</text>
+</g>
+<g transform="translate(685 176)">
+  <rect width="178" height="48" rx="13" class="pill"/>
+  <text x="18" y="30" class="icon" fill="#888">EX</text><text x="55" y="30" class="name">Express.js</text>
+</g>
+<g transform="translate(495 236)">
+  <rect width="178" height="48" rx="13" class="pill"/>
+  <text x="18" y="30" class="icon" fill="#47a248">M</text><text x="55" y="30" class="name">MongoDB</text>
+</g>
+<g transform="translate(685 236)">
+  <rect width="178" height="48" rx="13" class="pill"/>
+  <text x="18" y="30" class="icon" fill="#336791">DB</text><text x="55" y="30" class="name">SQL</text>
+</g>
+<g transform="translate(495 296)">
+  <rect width="178" height="48" rx="13" class="pill"/>
+  <text x="18" y="30" class="icon" fill="#ffca28">◆</text><text x="55" y="30" class="name">Firebase</text>
+</g>
+<g transform="translate(685 296)">
+  <rect width="178" height="48" rx="13" class="pill"/>
+  <text x="18" y="30" class="icon" fill="#3776ab">Py</text><text x="55" y="30" class="name">Python</text>
+</g>
+
+<!-- Tools -->
+<rect x="30" y="454" width="420" height="280" rx="18" class="card"/>
+<text x="55" y="490" class="section">🛠️ Tools &amp; Version Control</text>
+<text x="55" y="513" class="muted">Development workflow &amp; collaboration</text>
+
+<g transform="translate(55 538)">
+  <rect width="178" height="48" rx="13" class="pill"/>
+  <text x="18" y="30" class="icon" fill="#f05032">◆</text><text x="55" y="30" class="name">Git</text>
+</g>
+<g transform="translate(245 538)">
+  <rect width="178" height="48" rx="13" class="pill"/>
+  <text x="18" y="30" class="icon" fill="#24292f">●</text><text x="55" y="30" class="name">GitHub</text>
+</g>
+<g transform="translate(55 598)">
+  <rect width="178" height="48" rx="13" class="pill"/>
+  <text x="18" y="30" class="icon" fill="#2496ed">◇</text><text x="55" y="30" class="name">Docker</text>
+</g>
+<g transform="translate(245 598)">
+  <rect width="178" height="48" rx="13" class="pill"/>
+  <text x="18" y="30" class="icon" fill="#007acc">VS</text><text x="55" y="30" class="name">VS Code</text>
+</g>
+<g transform="translate(55 658)">
+  <rect width="368" height="48" rx="13" class="pill"/>
+  <text x="18" y="30" class="icon" fill="#ff6c37">↗</text><text x="55" y="30" class="name">Postman · API Testing</text>
+</g>
+
+<!-- Design -->
+<rect x="470" y="454" width="420" height="280" rx="18" class="card"/>
+<text x="495" y="490" class="section">🎨 Design &amp; Graphics</text>
+<text x="495" y="513" class="muted">Visual design, prototyping &amp; 3D</text>
+
+<g transform="translate(495 538)">
+  <rect width="178" height="48" rx="13" class="pill"/>
+  <text x="18" y="30" class="icon" fill="#f24e1e">◆</text><text x="55" y="30" class="name">Figma</text>
+</g>
+<g transform="translate(685 538)">
+  <rect width="178" height="48" rx="13" class="pill"/>
+  <text x="18" y="30" class="icon" fill="#00c4cc">✦</text><text x="55" y="30" class="name">Canva</text>
+</g>
+<g transform="translate(495 598)">
+  <rect width="368" height="48" rx="13" class="pill"/>
+  <text x="18" y="30" class="icon" fill="#f5792a">◉</text><text x="55" y="30" class="name">Blender</text>
+</g>
+
+</svg>
