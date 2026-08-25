@@ -93,11 +93,13 @@
   >
 </p>
 
-🤝 Let's Connect
-
-<div align="center">
-
-If you're interested in development, design, creative projects or just building cool things, feel free to connect.
+<p align="center">
+  <img
+    src="./assets/lets-connect-adaptive.svg"
+    alt="Let's Connect"
+    width="900"
+  >
+</p>
 
 
 <p align="center">
