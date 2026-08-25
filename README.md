@@ -16,10 +16,13 @@
        width="900">
 </p>
 
+<!-- Featured Projects -->
 <p align="center">
-  <img src="./assets/featured-projects.svg"
-       alt="Featured Projects — Darshan Prajapati"
-       width="100%">
+  <img
+    src="./assets/featured-projects.svg"
+    alt="Featured Projects — Darshan Prajapati"
+    width="900"
+  >
 </p>
 
 📊 GitHub
