@@ -16,23 +16,25 @@
        width="900">
 </p>
 
-<!-- Featured Projects — GitHub clickable version -->
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<!-- Featured Projects -->
+<p align="center"><strong>⭐ Featured Projects</strong></p>
+
+<table border="0" cellspacing="0" cellpadding="6" width="100%">
 <tr>
-<td width="50%" align="center" valign="top"><a href="https://cyberaegxs.hdmixture.site"><img src="./assets/projects/project-01.svg" width="420" alt="CyberAegXs"></a></td>
-<td width="50%" align="center" valign="top"><a href="https://github.com/hd-mixture/Nearby-Places.git"><img src="./assets/projects/project-02.svg" width="420" alt="Nearby Places"></a></td>
+<td width="50%" align="center"><a href="https://cyberaegxs.hdmixture.site"><img src="./assets/project-01.svg" width="420" alt="Project 01"></a></td>
+<td width="50%" align="center"><a href="https://github.com/hd-mixture/Nearby-Places.git"><img src="./assets/project-02.svg" width="420" alt="Project 02"></a></td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top"><a href="https://hd-mixture.github.io/Figma-File-JSON-Downloader"><img src="./assets/projects/project-03.svg" width="420" alt="Figma File JSON Downloader"></a></td>
-<td width="50%" align="center" valign="top"><img src="./assets/projects/project-04.svg" width="420" alt="DevTextHub"></td>
+<td width="50%" align="center"><a href="https://hd-mixture.github.io/Figma-File-JSON-Downloader"><img src="./assets/project-03.svg" width="420" alt="Project 03"></a></td>
+<td width="50%" align="center"><img src="./assets/project-04.svg" width="420" alt="Project 04"></td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top"><a href="https://cardify.hdmixture.site"><img src="./assets/projects/project-05.svg" width="420" alt="Cardify"></a></td>
-<td width="50%" align="center" valign="top"><a href="https://hub.darshanenterprises.site"><img src="./assets/projects/project-06.svg" width="420" alt="DE Invoice & Quotation Hub"></a></td>
+<td width="50%" align="center"><a href="https://cardify.hdmixture.site"><img src="./assets/project-05.svg" width="420" alt="Project 05"></a></td>
+<td width="50%" align="center"><a href="https://hub.darshanenterprises.site"><img src="./assets/project-06.svg" width="420" alt="Project 06"></a></td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top"><a href="https://hd-mixture.github.io/Campus-Cuisine-2"><img src="./assets/projects/project-07.svg" width="420" alt="Campus-Cuisine-2"></a></td>
-<td width="50%" align="center" valign="top"><a href="https://www.hdmixture.site"><img src="./assets/projects/project-08.svg" width="420" alt="hdmixture"></a></td>
+<td width="50%" align="center"><a href="https://hd-mixture.github.io/Campus-Cuisine-2"><img src="./assets/project-07.svg" width="420" alt="Project 07"></a></td>
+<td width="50%" align="center"><a href="https://www.hdmixture.site"><img src="./assets/project-08.svg" width="420" alt="Project 08"></a></td>
 </tr>
 </table>
 
