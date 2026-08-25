@@ -1,7 +1,7 @@
 <div align="center">
-
-<img src="./assets/hero-banner.png" alt="Darshan Prajapati - Creative Developer" width="100%">
-
+  <img src="./assets/hero-left.svg"
+       alt="Darshan Prajapati — Developer and Designer"
+       width="760">
 </div>
 
 🚀 About Me
