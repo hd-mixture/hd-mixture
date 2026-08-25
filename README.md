@@ -16,8 +16,9 @@
        width="900">
 </p>
 
-<p align="left">
-  <img src="./assets/featured-projects-header.svg" alt="Featured Projects" width="600">
+--Featured Project--
+<p align="center">
+  <img src="./assets/featured-projects-header.svg" alt="Featured Projects" width="900">
 </p>
 
 <p align="center">
