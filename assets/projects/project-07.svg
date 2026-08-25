@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="215" viewBox="0 0 420 215">
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="250" viewBox="0 0 420 250">
 <defs>
   <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
     <stop offset="0%" stop-color="#6942c1"/>
@@ -53,22 +53,18 @@
 .previewtext{fill:#58a6ff}
     }
   </style>
-<!-- 01 -->
-<rect x="0" y="0" width="420" height="215" rx="-12" class="card"/>
-<text x="25" y="34" class="num">01</text>
-<text x="60" y="34" class="project">🛡️ CyberAegXs</text>
-<text x="25" y="70" class="desc">An AI-powered PDF Security and Management Platform</text>
-<text x="25" y="92" class="desc">designed for secure and smart document handling.</text>
+<!-- 07 -->
+<rect x="0" y="0" width="420" height="250" rx="-12" class="card"/>
+<text x="25" y="34" class="num">07</text>
+<text x="60" y="34" class="project">📚 Campus-Cuisine-2</text>
+<text x="25" y="70" class="desc">An updated version exploring the same idea with</text>
+<text x="25" y="92" class="desc">a different frontend implementation.</text>
 <rect x="25" y="125" width="70" height="30" rx="-15" class="tag"/>
-<text x="40" y="144" class="tagtext">React</text>
+<text x="40" y="144" class="tagtext">HTML</text>
 <rect x="103" y="125" width="70" height="30" rx="-15" class="tag"/>
-<text x="118" y="144" class="tagtext">Next.js</text>
-<rect x="181" y="125" width="70" height="30" rx="-15" class="tag"/>
-<text x="196" y="144" class="tagtext">Node.js</text>
-<rect x="25" y="163" width="70" height="30" rx="-15" class="tag"/>
-<text x="40" y="182" class="tagtext">Express</text>
-<a href="https://cyberaegxs.hdmixture.site" target="_blank">
-  <rect x="296" y="173" width="112" height="30" rx="-15" class="preview"/>
-  <text x="312" y="192" class="previewtext">↗ View Live</text>
+<text x="118" y="144" class="tagtext">CSS</text>
+<a href="https://hd-mixture.github.io/Campus-Cuisine-2" target="_blank">
+  <rect x="296" y="208" width="112" height="30" rx="-15" class="preview"/>
+  <text x="312" y="227" class="previewtext">↗ View Live</text>
 </a>
 </svg>
