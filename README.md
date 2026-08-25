@@ -117,13 +117,25 @@ Focus: GitHub Profile • Markdown
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=hd-mixture&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="170" alt="GitHub Stats">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=hd-mixture&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=hd-mixture&show_icons=true&hide_border=true&theme=default&rank_icon=github">
+  <img height="170" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=hd-mixture&show_icons=true&hide_border=true&theme=default&rank_icon=github">
+</picture>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hd-mixture&layout=compact&hide_border=true&theme=github_dark" height="170" alt="Top Languages">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=hd-mixture&layout=compact&hide_border=true&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=hd-mixture&layout=compact&hide_border=true&theme=default">
+  <img height="170" alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hd-mixture&layout=compact&hide_border=true&theme=default">
+</picture>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=hd-mixture&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=hd-mixture&theme=github-dark-blue&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=hd-mixture&theme=default&hide_border=true">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=hd-mixture&theme=default&hide_border=true">
+</picture>
 
 </div>
 
