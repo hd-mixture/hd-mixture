@@ -16,30 +16,26 @@
        width="900">
 </p>
 
-<!-- Featured Projects -->
-<p align="center">
-  <a href="https://cyberaegxs.hdmixture.site">
-    <img src="./assets/featured-projects.svg"
-         alt="Featured Projects"
-         width="900">
-  </a>
-</p>
+<!-- Featured Projects — exact design + independent clickable cards -->
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%" valign="top" align="center"><a href="https://cyberaegxs.hdmixture.site"><img src="./assets/project-01.svg" alt="CyberAegXs" width="420"></a></td>
+<td width="50%" valign="top" align="center"><a href="https://github.com/hd-mixture/Nearby-Places.git"><img src="./assets/project-02.svg" alt="Nearby Places" width="420"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><a href="https://hd-mixture.github.io/Figma-File-JSON-Downloader"><img src="./assets/project-03.svg" alt="Figma File JSON Downloader" width="420"></a></td>
+<td width="50%" valign="top" align="center"><img src="./assets/project-04.svg" alt="DevTextHub" width="420"></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><a href="https://cardify.hdmixture.site"><img src="./assets/project-05.svg" alt="Cardify" width="420"></a></td>
+<td width="50%" valign="top" align="center"><a href="https://hub.darshanenterprises.site"><img src="./assets/project-06.svg" alt="DE Invoice & Quotation Hub" width="420"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><a href="https://hd-mixture.github.io/Campus-Cuisine-2"><img src="./assets/project-07.svg" alt="Campus-Cuisine-2" width="420"></a></td>
+<td width="50%" valign="top" align="center"><a href="https://www.hdmixture.site"><img src="./assets/project-08.svg" alt="hdmixture" width="420"></a></td>
+</tr>
+</table>
 
-<p align="center">
-  <a href="https://cyberaegxs.hdmixture.site">CyberAegXs</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/hd-mixture/Nearby-Places.git">Nearby Places</a>
-  &nbsp;•&nbsp;
-  <a href="https://hd-mixture.github.io/Figma-File-JSON-Downloader">Figma JSON Downloader</a>
-  &nbsp;•&nbsp;
-  <a href="https://cardify.hdmixture.site">Cardify</a>
-  &nbsp;•&nbsp;
-  <a href="https://hub.darshanenterprises.site">DE Hub</a>
-  &nbsp;•&nbsp;
-  <a href="https://hd-mixture.github.io/Campus-Cuisine-2">Campus Cuisine</a>
-  &nbsp;•&nbsp;
-  <a href="https://www.hdmixture.site">hdmixture</a>
-</p>
 
 📊 GitHub
 
