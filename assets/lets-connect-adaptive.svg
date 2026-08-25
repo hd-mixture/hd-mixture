@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="112" viewBox="0 0 900 112">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6246d8"/>
+      <stop offset="100%" stop-color="#3478e5"/>
+    </linearGradient>
+    <style>
+      .title { fill: #111827; }
+      .body { fill: #334155; }
+      @media (prefers-color-scheme: dark) {
+        .title { fill: #f0f6fc; }
+        .body { fill: #c9d1d9; }
+      }
+    </style>
+  </defs>
+
+  <rect width="900" height="112" fill="transparent"/>
+
+  <!-- Section heading -->
+  <text x="18" y="38"
+        font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, sans-serif"
+        font-size="24">🤝</text>
+
+  <text x="50" y="38"
+        class="title"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="23"
+        font-weight="800">Let's Connect</text>
+
+  <!-- Accent underline -->
+  <rect x="18" y="52" width="82" height="3.5" rx="1.75"
+        fill="url(#accent)"/>
+
+  <!-- Centered message -->
+  <text x="450" y="91"
+        text-anchor="middle"
+        class="body"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="17"
+        font-weight="500">
+    If you're interested in development, design, creative projects or just building cool things, feel free to connect.
+  </text>
+</svg>
