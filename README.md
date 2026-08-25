@@ -77,15 +77,13 @@
 
 </div>
 
-🌱 Currently Exploring
-
-Creative Development
-        ↓
-Modern Web Experiences
-        ↓
-Better UI & UX
-        ↓
-Building • Learning • Experimenting
+<p align="center">
+  <img
+    src="./assets/currently-exploring-adaptive.svg"
+    alt="Currently Exploring"
+    width="900"
+  >
+</p>
 
 💡 What I Like Building
 
