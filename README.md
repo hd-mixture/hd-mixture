@@ -41,7 +41,17 @@
   <a href="https://www.hdmixture.site"><img src="./assets/project-08.svg" alt="hdmixture" width="400"></a>
 </p>
 
-📊 GitHub
+<!--📊 GitHub-->
+
+<p align="center">
+  <img
+    src="./assets/github-section-header.svg"
+    alt="GitHub"
+    width="900"
+  >
+</p>
+
+<!-- Yahan tumhara GitHub content -->
 
 <div align="center">
 
