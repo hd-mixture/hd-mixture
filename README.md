@@ -85,11 +85,13 @@
   >
 </p>
 
-💡 What I Like Building
-
-Interfaces that are clean, experiences that are useful, and projects that have a little bit of personality.
-
-I enjoy combining development with visual thinking — not just making something work, but making it feel polished too.
+<p align="center">
+  <img
+    src="./assets/what-i-like-building-adaptive.svg"
+    alt="What I Like Building"
+    width="900"
+  >
+</p>
 
 🤝 Let's Connect
 
