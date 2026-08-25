@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="64" viewBox="0 0 900 64">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6246d8"/>
+      <stop offset="100%" stop-color="#3478e5"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="64" fill="transparent"/>
+
+  <!-- GitHub section icon -->
+  <text x="18" y="39"
+        font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, sans-serif"
+        font-size="24">📊</text>
+
+  <!-- Section title -->
+  <text x="51" y="39"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="23"
+        font-weight="800"
+        letter-spacing="0"
+        fill="#111827">GitHub</text>
+
+  <!-- Accent underline -->
+  <rect x="18" y="52" width="68" height="3.5" rx="1.75"
+        fill="url(#accent)"/>
+</svg>
