@@ -95,7 +95,7 @@
 
 <!--Social Icons-->
 <p align="center">
-<a href="https://hd-mixture.github.io/Portfolio/"><img src="./assets/portfolio-adaptive.svg" alt="Portfolio" width="150"></a>&nbsp;&nbsp;
+<a href="https://www.hdmixture.site"><img src="./assets/portfolio-adaptive.svg" alt="Portfolio" width="150"></a>&nbsp;&nbsp;
 <a href="https://github.com/hd-mixture"><img src="./assets/github-adaptive.svg" alt="GitHub" width="135"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/hd_mixture"><img src="./assets/instagram-adaptive.svg" alt="Instagram" width="165"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/hd_mixture"><img src="./assets/twitter-adaptive.svg" alt="Twitter" width="125"></a>
