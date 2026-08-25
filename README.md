@@ -32,13 +32,13 @@
 </p>
 
 <p align="center">
-  <a href="https://cardify.hdmixture.site"><img src="./assets/project-05.svg" alt="Cardify" width="420"></a>
-  <a href="https://hub.darshanenterprises.site"><img src="./assets/project-06.svg" alt="DE Invoice & Quotation Hub" width="420"></a>
+  <a href="https://cardify.hdmixture.site"><img src="./assets/project-05.svg" alt="Cardify" width="400"></a>
+  <a href="https://hub.darshanenterprises.site"><img src="./assets/project-06.svg" alt="DE Invoice & Quotation Hub" width="400"></a>
 </p>
 
 <p align="center">
-  <a href="https://hd-mixture.github.io/Campus-Cuisine-2"><img src="./assets/project-07.svg" alt="Campus-Cuisine-2" width="420"></a>
-  <a href="https://www.hdmixture.site"><img src="./assets/project-08.svg" alt="hdmixture" width="420"></a>
+  <a href="https://hd-mixture.github.io/Campus-Cuisine-2"><img src="./assets/project-07.svg" alt="Campus-Cuisine-2" width="400"></a>
+  <a href="https://www.hdmixture.site"><img src="./assets/project-08.svg" alt="hdmixture" width="400"></a>
 </p>
 
 📊 GitHub
