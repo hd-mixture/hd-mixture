@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1160" viewBox="0 0 1200 1160" role="img" aria-labelledby="title desc">
+<title id="title">Featured Projects — Darshan Prajapati</title>
+<desc id="desc">Selected projects including Weather Visualization, Nearby Places, Figma File JSON Downloader, Campus Cuisine, Campus-Cuisine-2 and hdmixture.</desc>
+
+<defs>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#6942c1"/>
+    <stop offset="100%" stop-color="#2f81f7"/>
+  </linearGradient>
+  <style>
+    .title{font:800 28px Arial,Helvetica,sans-serif;fill:#171b21}
+    .project{font:800 18px Arial,Helvetica,sans-serif;fill:#20252c}
+    .desc{font:400 14px Arial,Helvetica,sans-serif;fill:#69737e}
+    .focus{font:700 13px Arial,Helvetica,sans-serif;fill:#6942c1}
+    .num{font:800 12px Arial,Helvetica,sans-serif;fill:#8a939d}
+    .card{fill:#fff;stroke:#e1e5ea;stroke-width:1.5}
+    .tag{fill:#f5f7fa;stroke:#e2e6eb;stroke-width:1}
+    .tagtext{font:700 11px Arial,Helvetica,sans-serif;fill:#59636e}
+    .accent{fill:url(#accent)}
+    @media (prefers-color-scheme:dark){
+      .title,.project{fill:#f0f6fc}
+      .desc{fill:#8b949e}
+      .focus{fill:#58a6ff}
+      .num{fill:#6e7681}
+      .card{fill:#161b22;stroke:#30363d}
+      .tag{fill:#1c2128;stroke:#30363d}
+      .tagtext{fill:#8b949e}
+    }
+  </style>
+</defs>
+
+<text x="30" y="43" class="title">⭐ Featured Projects</text>
+<rect x="30" y="60" width="58" height="4" rx="2" class="accent"/>
+
+<!-- 01 -->
+<rect x="30" y="92" width="565" height="215" rx="18" class="card"/>
+<text x="55" y="126" class="num">01</text>
+<text x="90" y="126" class="project">🛡️ CyberAegXs</text>
+<text x="55" y="162" class="desc">An AI-powered PDF Security and Management Platform</text>
+<text x="55" y="184" class="desc">designed for secure and smart document handling.</text>
+<rect x="55" y="217" width="70" height="30" rx="15" class="tag"/>
+<text x="70" y="236" class="tagtext">React</text>
+<rect x="133" y="217" width="70" height="30" rx="15" class="tag"/>
+<text x="148" y="236" class="tagtext">Next.js</text>
+<rect x="211" y="217" width="70" height="30" rx="15" class="tag"/>
+<text x="226" y="236" class="tagtext">Node.js</text>
+<rect x="55" y="255" width="70" height="30" rx="15" class="tag"/>
+<text x="70" y="274" class="tagtext">Express</text>
+<!-- 02 -->
+<rect x="605" y="92" width="565" height="215" rx="18" class="card"/>
+<text x="630" y="126" class="num">02</text>
+<text x="665" y="126" class="project">📍 Nearby Places</text>
+<text x="630" y="162" class="desc">A project focused on discovering and working with</text>
+<text x="630" y="184" class="desc">nearby locations and places.</text>
+<rect x="630" y="217" width="119" height="30" rx="15" class="tag"/>
+<text x="510" y="236" class="tagtext">Android Studio</text>
+<rect x="622.4" y="217" width="70" height="30" rx="15" class="tag"/>
+<text x="637" y="236" class="tagtext">Java</text>
+<rect x="700.4" y="217" width="70" height="30" rx="15" class="tag"/>
+<text x="715" y="236" class="tagtext">SQL</text>
+<!-- 03 -->
+<rect x="30" y="327" width="565" height="215" rx="18" class="card"/>
+<text x="55" y="361" class="num">03</text>
+<text x="90" y="361" class="project">🎨 Figma File JSON Downloader</text>
+<text x="55" y="397" class="desc">A utility project for working with Figma file data</text>
+<text x="55" y="419" class="desc">and JSON.</text>
+<rect x="55" y="452" width="70" height="30" rx="15" class="tag"/>
+<text x="70" y="471" class="tagtext">HTML</text>
+<rect x="133" y="452" width="70" height="30" rx="15" class="tag"/>
+<text x="148" y="471" class="tagtext">CSS</text>
+<rect x="211" y="452" width="70" height="30" rx="15" class="tag"/>
+<text x="226" y="471" class="tagtext">Fastly</text>
+<rect x="55" y="490" width="70" height="30" rx="15" class="tag"/>
+<text x="70" y="509" class="tagtext">Varnish</text>
+<!-- 04 -->
+<rect x="605" y="327" width="565" height="215" rx="18" class="card"/>
+<text x="630" y="361" class="num">04</text>
+<text x="665" y="361" class="project">🚀 DevTextHub</text>
+<text x="630" y="397" class="desc">Project Management Hub for organizing projects,</text>
+<text x="630" y="419" class="desc">tasks and development workflows.</text>
+<rect x="630" y="452" width="91" height="30" rx="15" class="tag"/>
+<text x="510" y="471" class="tagtext">PostgreSQL</text>
+<rect x="594.0" y="452" width="77" height="30" rx="15" class="tag"/>
+<text x="609" y="471" class="tagtext">Firebase</text>
+<rect x="678.8" y="452" width="105" height="30" rx="15" class="tag"/>
+<text x="694" y="471" class="tagtext">Tailwind CSS</text>
+<rect x="630" y="490" width="70" height="30" rx="15" class="tag"/>
+<text x="510" y="509" class="tagtext">Next.js</text>
+<!-- 05 -->
+<rect x="30" y="562" width="565" height="215" rx="18" class="card"/>
+<text x="55" y="596" class="num">05</text>
+<text x="90" y="596" class="project">💳 Cardify</text>
+<text x="55" y="632" class="desc">Modern, web-based application for creating, customizing</text>
+<text x="55" y="654" class="desc">and downloading professional virtual visiting cards.</text>
+<rect x="55" y="687" width="70" height="30" rx="15" class="tag"/>
+<text x="70" y="706" class="tagtext">Next.js</text>
+<rect x="133" y="687" width="70" height="30" rx="15" class="tag"/>
+<text x="148" y="706" class="tagtext">React</text>
+<rect x="211" y="687" width="77" height="30" rx="15" class="tag"/>
+<text x="226" y="706" class="tagtext">Radix UI</text>
+<rect x="55" y="725" width="105" height="30" rx="15" class="tag"/>
+<text x="70" y="744" class="tagtext">Tailwind CSS</text>
+<!-- 06 -->
+<rect x="605" y="562" width="565" height="215" rx="18" class="card"/>
+<text x="630" y="596" class="num">06</text>
+<text x="665" y="596" class="project">🧾 DE Invoice &amp; Quotation Hub</text>
+<text x="630" y="632" class="desc">Specialized document workspaces for quotations,</text>
+<text x="630" y="654" class="desc">commercial billing logs and tax returns.</text>
+
+<!-- technology pills: balanced 2 × 2 -->
+<rect x="630" y="687" width="92" height="30" rx="15" class="tag"/>
+<text x="510" y="706" class="tagtext">Next.js</text>
+
+<rect x="595" y="687" width="78" height="30" rx="15" class="tag"/>
+<text x="610" y="706" class="tagtext">React</text>
+
+<rect x="816" y="687" width="122" height="30" rx="15" class="tag"/>
+<text x="696" y="706" class="tagtext">Tailwind CSS</text>
+
+<rect x="630" y="725" width="92" height="30" rx="15" class="tag"/>
+<text x="510" y="744" class="tagtext">Firebase</text>
+<!-- 07 -->
+<rect x="30" y="797" width="565" height="215" rx="18" class="card"/>
+<text x="55" y="831" class="num">07</text>
+<text x="90" y="831" class="project">📚 Campus-Cuisine-2</text>
+<text x="55" y="867" class="desc">An updated version exploring the same idea with</text>
+<text x="55" y="889" class="desc">a different frontend implementation.</text>
+<rect x="55" y="922" width="70" height="30" rx="15" class="tag"/>
+<text x="70" y="941" class="tagtext">HTML</text>
+<rect x="133" y="922" width="70" height="30" rx="15" class="tag"/>
+<text x="148" y="941" class="tagtext">CSS</text>
+<!-- 08 -->
+<rect x="605" y="797" width="565" height="250" rx="18" class="card"/>
+<text x="630" y="831" class="num">08</text>
+<text x="665" y="831" class="project">🧰 hdmixture</text>
+<text x="630" y="867" class="desc">Configuration files and content for my GitHub</text>
+<text x="630" y="889" class="desc">profile.</text>
+<rect x="630" y="922" width="82" height="30" rx="15" class="tag"/>
+<text x="510" y="941" class="tagtext">React</text>
+<rect x="585" y="922" width="92" height="30" rx="15" class="tag"/>
+<text x="600" y="941" class="tagtext">Next.js</text>
+<rect x="685" y="922" width="105" height="30" rx="15" class="tag"/>
+<text x="700" y="941" class="tagtext">TypeScript</text>
+<rect x="630" y="960" width="88" height="30" rx="15" class="tag"/>
+<text x="510" y="979" class="tagtext">Node.js</text>
+<rect x="591" y="960" width="100" height="30" rx="15" class="tag"/>
+<text x="606" y="979" class="tagtext">Express.js</text>
+<rect x="834" y="960" width="100" height="30" rx="15" class="tag"/>
+<text x="714" y="979" class="tagtext">MongoDB</text>
+<rect x="630" y="998" width="100" height="30" rx="15" class="tag"/>
+<text x="510" y="1017" class="tagtext">Mongoose</text>
+<rect x="603" y="998" width="105" height="30" rx="15" class="tag"/>
+<text x="618" y="1017" class="tagtext">Cloudinary</text>
+<rect x="851" y="998" width="90" height="30" rx="15" class="tag"/>
+<text x="731" y="1017" class="tagtext">Firebase</text>
+
+</svg>
