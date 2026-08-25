@@ -16,72 +16,11 @@
        width="900">
 </p>
 
-⭐ Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-🌦️ Weather Visualization
-
-A weather-focused visualization project built to present information in an easy-to-understand way.
-
-Focus: Python • Data Visualization
-
-</td>
-<td width="50%">
-
-📍 Nearby Places
-
-A project focused on discovering and working with nearby locations and places.
-
-Focus: Location-based experience
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-🎨 Figma File JSON Downloader
-
-A utility project for working with Figma file data and JSON.
-
-Focus: HTML • Web Tools
-
-</td>
-<td width="50%">
-
-🍳 Campus Cuisine
-
-A campus-focused web project designed around a practical food-related experience.
-
-Focus: CSS • Web Development
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-📚 Campus-Cuisine-2
-
-An updated version exploring the same idea with a different frontend implementation.
-
-Focus: CSS • Frontend
-
-</td>
-<td width="50%">
-
-🧰 hdmixture
-
-Configuration files and content for my GitHub profile.
-
-Focus: GitHub Profile • Markdown
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="./assets/featured-projects.svg"
+       alt="Featured Projects — Darshan Prajapati"
+       width="100%">
+</p>
 
 📊 GitHub
 
