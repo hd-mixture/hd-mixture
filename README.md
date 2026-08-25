@@ -17,26 +17,29 @@
 </p>
 
 <!-- Featured Projects -->
-<p align="center"><strong>⭐ Featured Projects</strong></p>
+<p align="center">
+  <a href="https://cyberaegxs.hdmixture.site">
+    <img src="./assets/featured-projects.svg"
+         alt="Featured Projects"
+         width="900">
+  </a>
+</p>
 
-<table border="0" cellspacing="0" cellpadding="6" width="100%">
-<tr>
-<td width="50%" align="center"><a href="https://cyberaegxs.hdmixture.site"><img src="./assets/project-01.svg" width="420" alt="Project 01"></a></td>
-<td width="50%" align="center"><a href="https://github.com/hd-mixture/Nearby-Places.git"><img src="./assets/project-02.svg" width="420" alt="Project 02"></a></td>
-</tr>
-<tr>
-<td width="50%" align="center"><a href="https://hd-mixture.github.io/Figma-File-JSON-Downloader"><img src="./assets/project-03.svg" width="420" alt="Project 03"></a></td>
-<td width="50%" align="center"><img src="./assets/project-04.svg" width="420" alt="Project 04"></td>
-</tr>
-<tr>
-<td width="50%" align="center"><a href="https://cardify.hdmixture.site"><img src="./assets/project-05.svg" width="420" alt="Project 05"></a></td>
-<td width="50%" align="center"><a href="https://hub.darshanenterprises.site"><img src="./assets/project-06.svg" width="420" alt="Project 06"></a></td>
-</tr>
-<tr>
-<td width="50%" align="center"><a href="https://hd-mixture.github.io/Campus-Cuisine-2"><img src="./assets/project-07.svg" width="420" alt="Project 07"></a></td>
-<td width="50%" align="center"><a href="https://www.hdmixture.site"><img src="./assets/project-08.svg" width="420" alt="Project 08"></a></td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://cyberaegxs.hdmixture.site">CyberAegXs</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/hd-mixture/Nearby-Places.git">Nearby Places</a>
+  &nbsp;•&nbsp;
+  <a href="https://hd-mixture.github.io/Figma-File-JSON-Downloader">Figma JSON Downloader</a>
+  &nbsp;•&nbsp;
+  <a href="https://cardify.hdmixture.site">Cardify</a>
+  &nbsp;•&nbsp;
+  <a href="https://hub.darshanenterprises.site">DE Hub</a>
+  &nbsp;•&nbsp;
+  <a href="https://hd-mixture.github.io/Campus-Cuisine-2">Campus Cuisine</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.hdmixture.site">hdmixture</a>
+</p>
 
 📊 GitHub
 
