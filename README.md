@@ -47,64 +47,62 @@
   <img
     src="./assets/github-section-header.svg"
     alt="GitHub"
-    width="900"
-  >
+    width="900">
 </p>
 
-<!-- Yahan tumhara GitHub content -->
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=hd-mixture&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=hd-mixture&show_icons=true&hide_border=true&theme=default&rank_icon=github">
-  <img height="170" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=hd-mixture&show_icons=true&hide_border=true&theme=default&rank_icon=github">
-</picture>
+  <!-- GitHub Stats -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.vercel.app/api?username=hd-mixture&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-stats-extended.vercel.app/api?username=hd-mixture&show_icons=true&hide_border=true&theme=default&rank_icon=github">
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=hd-mixture&show_icons=true&hide_border=true&theme=default&rank_icon=github"
+      alt="GitHub Stats"
+      height="170">
+  </picture>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="YOUR_GITHUB_STATS_DARK_URL">
-  <source media="(prefers-color-scheme: light)"
-    srcset="YOUR_GITHUB_STATS_LIGHT_URL">
-  <img
-    alt="GitHub Stats"
-    src="YOUR_GITHUB_STATS_LIGHT_URL"
-    width="900">
-</picture>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="YOUR_STREAK_DARK_URL">
-  <source media="(prefers-color-scheme: light)"
-    srcset="YOUR_STREAK_LIGHT_URL">
-  <img
-    alt="GitHub Streak"
-    src="YOUR_STREAK_LIGHT_URL"
-    width="900">
-</picture>
+  <!-- Top Languages -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=hd-mixture&layout=compact&hide_border=true&theme=github_dark">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=hd-mixture&layout=compact&hide_border=true&theme=default">
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=hd-mixture&layout=compact&hide_border=true&theme=default"
+      alt="Top Languages"
+      height="170">
+  </picture>
 
 </div>
 
-<br>
+  <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=hd-mixture&theme=github-dark-blue&hide_border=true">
-
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com?user=hd-mixture&theme=default&hide_border=true">
-
-  <img
-    alt="GitHub Streak"
-    src="https://streak-stats.demolab.com?user=hd-mixture&theme=default&hide_border=true">
-</picture>
+ <div align="center">
+  <!-- GitHub Streak -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com?user=hd-mixture&theme=github-dark-blue&hide_border=true">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://streak-stats.demolab.com?user=hd-mixture&theme=default&hide_border=true">
+    <img
+      src="https://streak-stats.demolab.com?user=hd-mixture&theme=default&hide_border=true"
+      alt="GitHub Streak"
+      width="450">
+  </picture>
+</div>
 
 </div>
 
+<!-- Currentely Exploring -->
 <p align="center">
   <img
     src="./assets/currently-exploring-adaptive.svg"
