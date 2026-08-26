@@ -61,11 +61,12 @@
       media="(prefers-color-scheme: light)"
       srcset="https://github-stats-extended.vercel.app/api?username=hd-mixture&show_icons=true&hide_border=true&theme=default&rank_icon=github">
     <img
+      align="top"
       src="https://github-stats-extended.vercel.app/api?username=hd-mixture&show_icons=true&hide_border=true&theme=default&rank_icon=github"
       alt="GitHub Stats"
-      height="170">
+      height="165">
   </picture>
-
+  &nbsp;
   <!-- Top Languages -->
   <picture>
     <source
@@ -75,17 +76,15 @@
       media="(prefers-color-scheme: light)"
       srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=hd-mixture&layout=compact&hide_border=true&theme=default">
     <img
+      align="top"
       src="https://github-stats-extended.vercel.app/api/top-langs/?username=hd-mixture&layout=compact&hide_border=true&theme=default"
       alt="Top Languages"
-      height="170">
+      height="165">
   </picture>
-
-</div>
 
   <br><br>
 
- <div align="center">
-  <!-- GitHub Streak -->
+  <!-- GitHub Streak (Shifted Left) -->
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -97,10 +96,11 @@
       src="https://streak-stats.demolab.com?user=hd-mixture&theme=default&hide_border=true"
       alt="GitHub Streak"
       width="450">
-  </picture>
-</div>
+  </picture>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
+
+
 
 <!-- Currentely Exploring -->
 <p align="center">
