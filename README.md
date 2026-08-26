@@ -93,6 +93,14 @@
   >
 </p>
 
+<p align="center">
+  <img
+    src="./assets/lets-connect-adaptive.svg"
+    alt="Let's Connect"
+    width="900"
+  >
+</p>
+
 <!--Social Icons-->
 <p align="center">
 <a href="https://www.hdmixture.site"><img src="./assets/portfolio-adaptive.svg" alt="Portfolio" width="150"></a>&nbsp;&nbsp;
