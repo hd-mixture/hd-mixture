@@ -131,7 +131,7 @@
 <a href="https://twitter.com/hd_mixture"><img src="./assets/twitter-adaptive.svg" alt="Twitter" width="125"></a>
 </p>
 
-<br><br>
+<br>
 
 <p align="center">
   ⭐ <b>If you find something useful here, consider giving it a star!</b>
