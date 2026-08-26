@@ -22,14 +22,14 @@
 </p>
 
 <div align="center">
-  <a href="https://cyberaegxs.hdmixture.site"><img src="./assets/project-01.svg" alt="CyberAegXs" width="425"></a>&nbsp;
-  <a href="https://github.com/hd-mixture/Nearby-Places.git"><img src="./assets/project-02.svg" alt="Nearby Places" width="425"></a><br>
-  <a href="https://hd-mixture.github.io/Figma-File-JSON-Downloader"><img src="./assets/project-03.svg" alt="Figma File JSON Downloader" width="425"></a>&nbsp;
-  <img src="./assets/project-04.svg" alt="DevTextHub" width="425"><br>
-  <a href="https://cardify.hdmixture.site"><img src="./assets/project-05.svg" alt="Cardify" width="425"></a>&nbsp;
-  <a href="https://hub.darshanenterprises.site"><img src="./assets/project-06.svg" alt="DE Invoice & Quotation Hub" width="425"></a><br>
-  <a href="https://hd-mixture.github.io/Campus-Cuisine-2"><img src="./assets/project-07.svg" alt="Campus-Cuisine-2" width="425"></a>&nbsp;
-  <a href="https://www.hdmixture.site"><img src="./assets/project-08.svg" alt="hdmixture" width="425"></a>
+  <a href="https://cyberaegxs.hdmixture.site"><img src="./assets/project-01.svg" alt="CyberAegXs" width="400"></a>&nbsp;
+  <a href="https://github.com/hd-mixture/Nearby-Places.git"><img src="./assets/project-02.svg" alt="Nearby Places" width="400"></a><br>
+  <a href="https://hd-mixture.github.io/Figma-File-JSON-Downloader"><img src="./assets/project-03.svg" alt="Figma File JSON Downloader" width="400"></a>&nbsp;
+  <img src="./assets/project-04.svg" alt="DevTextHub" width="400"><br>
+  <a href="https://cardify.hdmixture.site"><img src="./assets/project-05.svg" alt="Cardify" width="400"></a>&nbsp;
+  <a href="https://hub.darshanenterprises.site"><img src="./assets/project-06.svg" alt="DE Invoice & Quotation Hub" width="400"></a><br>
+  <a href="https://hd-mixture.github.io/Campus-Cuisine-2"><img src="./assets/project-07.svg" alt="Campus-Cuisine-2" width="400"></a>&nbsp;
+  <a href="https://www.hdmixture.site"><img src="./assets/project-08.svg" alt="hdmixture" width="400"></a>
 </div>
 
 
