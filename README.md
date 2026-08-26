@@ -61,11 +61,33 @@
   <img height="170" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=hd-mixture&show_icons=true&hide_border=true&theme=default&rank_icon=github">
 </picture>
 
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=hd-mixture&layout=compact&hide_border=true&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=hd-mixture&layout=compact&hide_border=true&theme=default">
-  <img height="170" alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hd-mixture&layout=compact&hide_border=true&theme=default">
+  <source media="(prefers-color-scheme: dark)"
+    srcset="YOUR_GITHUB_STATS_DARK_URL">
+  <source media="(prefers-color-scheme: light)"
+    srcset="YOUR_GITHUB_STATS_LIGHT_URL">
+  <img
+    alt="GitHub Stats"
+    src="YOUR_GITHUB_STATS_LIGHT_URL"
+    width="900">
 </picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="YOUR_STREAK_DARK_URL">
+  <source media="(prefers-color-scheme: light)"
+    srcset="YOUR_STREAK_LIGHT_URL">
+  <img
+    alt="GitHub Streak"
+    src="YOUR_STREAK_LIGHT_URL"
+    width="900">
+</picture>
+
+</div>
 
 <br>
 
